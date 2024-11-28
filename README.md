@@ -1,2 +1,3 @@
 # Youtube-summarizer
  An YouTube summarizer Chrome extension that uses a Python backend with Flask to fetch video transcripts and generate summaries. The front-end, built with HTML, CSS, and JavaScript.
+This project creates a YouTube summarizer Chrome extension that uses a Python backend with Flask to fetch video transcripts and generate summaries. The front-end, built with HTML, CSS, and JavaScript, sends a GET request to the backend with the video URL, displays the summary in the extension interface, and manages the button state during the process. The extension is loaded into Chrome via developer mode, allowing users to summarize YouTube videos directly.
